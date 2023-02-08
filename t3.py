@@ -9,4 +9,6 @@ for i in range(side):
     pencolor("red")
     dot(30)
 
-mainloop()
+mainloop()    
+   
+   
